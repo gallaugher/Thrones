@@ -8,7 +8,7 @@ import SwiftUI
 struct ThronesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListView()
         }
     }
 }
